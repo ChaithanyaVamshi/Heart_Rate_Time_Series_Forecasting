@@ -1,6 +1,6 @@
 # Predicting Heart Rate using Time Series Forecasting with Python
 
-**The Ultimate Guide for Time Series Analysis and Forecasting on Heart rate Data**
+### The Ultimate Guide for Time Series Analysis and Forecasting on Heart rate Data
 
 ![image](https://user-images.githubusercontent.com/31254745/154763767-f42b7974-1105-4584-9a32-ea4b1a0fcbf5.png)
 
